@@ -4,3 +4,4 @@ A repositeroy made to contain the files necessary for the project based internsh
 
 # Files
 query.sql = Contains the query for creating the table "kf_analisa"
+Dashboard.png = A screenshot of the dashboard
